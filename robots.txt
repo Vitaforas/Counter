@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /impressum.php
+Disallow: /nutzungsbedingungen.php
+Disallow: /count.php
+Disallow: /counter_js.php
+Disallow: /*.php?
